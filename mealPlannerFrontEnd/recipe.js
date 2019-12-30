@@ -165,7 +165,6 @@ function createRecipe(){
             instructions: formData.get("instructions")
         }
 
-        console.log('recipe', recipe)
     
         fetch(`http://localhost:3000/recipes`,{
             method: 'POST',
