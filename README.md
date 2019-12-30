@@ -24,8 +24,9 @@ Javascript for the front end
 
 5. Enter `rails s` into the terminal to start the server for the Back-End. This will allow the Front-End to access the data in the tables. 
 
-6. You will now need to get into the Front-End by typing 'cd ..' then `cd mealPlannerFrontEnd` into the terminal. 
+6. You will now need to get into the Front-End by typing 'cd ..' then `cd mealPlannerFrontEnd` into the terminal.  
 
-7. Enter `lite-server` to start the front end. Your browser should come up with the home page. 
+7. Enter `lite-server` to start the front end. Your browser should come up with the home page. 
+
 
 https://mealplannerwebapp-dbbd7.firebaseapp.com/recipe.html
