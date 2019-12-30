@@ -29,4 +29,3 @@ Javascript for the front end
 7. Enter `lite-server` to start the front end. Your browser should come up with the home page. 
 
 https://mealplannerwebapp-dbbd7.firebaseapp.com/recipe.html
-
