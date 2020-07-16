@@ -151,9 +151,7 @@ function recipeOptions(recipes){
             weekday: formData.get("weekday"),
             meal: formData.get("meal"),
             recipe_id: formData.get("recipe_id"),
-        }
-        console.log('menus', menus)
-       
+        }       
     
         fetch(`https://meal-planner-back-end.herokuapp.com/menus`,{
             method: 'POST',
